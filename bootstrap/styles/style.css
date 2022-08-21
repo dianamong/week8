@@ -1,0 +1,7 @@
+@media screen and (min-width: 426px) and (max-width:768px) {
+    .card-deck {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 5px;
+    }
+}

@@ -1,0 +1,21 @@
+.main__title {
+    margin-top: 11.5vh;
+    margin-left: 8.75vw;
+    width: 542px;
+    height: 216px;
+    left: 126px;
+    top: 206px;
+
+    font-family: 'Intro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 120%;
+    /* or 72px */
+
+
+    /* Основной текст */
+
+    color: #000000;
+    /*padding-left: 126px;*/
+}

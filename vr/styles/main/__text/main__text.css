@@ -1,0 +1,19 @@
+.main__text {
+    margin-top: 9.5vh;
+    margin-left: 8.75vw;
+    width: 487px;
+    height: 96px;
+    
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+
+    /* Основной текст */
+
+    color: #000000;
+}

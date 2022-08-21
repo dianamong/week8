@@ -1,0 +1,11 @@
+.nav__item {
+    font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 160%;
+/* identical to box height, or 32px */
+
+
+color: #5222D0;
+}

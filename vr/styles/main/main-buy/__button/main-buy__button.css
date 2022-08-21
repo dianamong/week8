@@ -1,0 +1,12 @@
+.main-buy__button {
+    margin-top: 11.5vh;
+    margin-left: 8.75vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 270px;
+    height: 84px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 35px;
+}

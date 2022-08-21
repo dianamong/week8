@@ -1,0 +1,44 @@
+@import url(normalize.css);
+/*шрифт*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+/*Стили для страницы*/
+@import url(./page/page.css);
+/*Стили для header*/
+@import url(./header/header.css);
+@import url(./header/__logo/header__logo.css);
+@import url(./header/header-basket/header-basket.css);
+@import url(./header/header-basket/__button/header-basket__button.css);
+@import url(./header/header-basket/__icon/header-basket__icon.css);
+/*Стили для main*/
+@import url(./main/main.css);
+@import url(./main/__text/main__text.css);
+@import url(./main/__title/main__title.css);
+@import url(./main/main-buy/__button/main-buy__button.css);
+@import url(./main/main-buy/__icon/main-buy__icon.css);
+/*Стили для nav*/
+@import url(./nav/nav.css);
+@import url(./nav/__item/nav__item.css);
+@import url(./nav/__link/nav__link.css);
+@import url(./nav/__link/_black/nav__link_black.css);
+@import url(./nav/__list/nav__list.css);
+/*Стили для кнопок*/
+@import url(./button/button.css);
+/*Стили второй страницы*/
+/*Стили для facilities*/
+@import url(./facilities/__title/facilities__title.css);
+@import url(./facilities/facilities-col/facilities-col.css);
+@import url(./facilities/facilities-col/col-content/col-content.css);
+@import url(./facilities/facilities-col/col-content/__button/col-content__button.css);
+@import url(./facilities/facilities-col/col-content/__email/col-content__email.css);
+@import url(./facilities/facilities-col/col-content/__text/col-content__text.css);
+@import url(./facilities/facilities-col/col-content/__title/col-content__title.css);
+@import url(./facilities/facilities-col/col-content/__title/_white/col-content__title_white.css);
+@import url(./facilities/facilities-col/col-content/_subscribe/col-content_subscribe.css);
+/*шрифт*/
+@font-face {
+	font-family: 'Intro';
+	src: url('../assets/fonts/IntroDemo-BlackCAPS.eot');
+	src: local('☺'), url('../assets/fonts/IntroDemo-BlackCAPS.woff') format('woff'), url('../assets/fonts/IntroDemo-BlackCAPS.ttf') format('truetype'), url('../assets/fonts/IntroDemo-BlackCAPS.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

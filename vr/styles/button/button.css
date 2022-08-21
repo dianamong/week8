@@ -1,0 +1,9 @@
+.button {
+    text-decoration: none;
+    background: #5222D0;
+    border-radius: 100px;
+    color: #fff;
+    font-family: 'Intro';
+    font-style: normal;
+    font-weight: 400;
+}

@@ -1,0 +1,12 @@
+.facilities-col {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(365px, 1fr));
+	/*grid-template-columns: repeat(3, 1fr);*/
+	grid-template-rows: repeat(auto-fit, minmax(233px, 550px));
+	/*grid-template-rows: 1fr 1fr;*/
+	grid-column-gap: 70px;
+	grid-row-gap: 50px;
+	justify-items: center;
+	margin-left: 8.75vw;
+	margin-right: 5vw;
+}
